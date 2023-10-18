@@ -1,0 +1,142 @@
+@media screen and (min-width: 1200px) {
+    .single-car{ 
+        width: 75%;
+        margin: 0 auto;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .single-car-box{
+        display: flex;
+   
+    }
+    .single-car-left{
+        width: 50%;
+        text-align: center;
+
+    }
+    .icons-single-car{
+        display: flex;
+        margin-top: 20px;
+        justify-content: space-around;
+
+    }
+    .single-car-right{
+        width: 50%;
+        text-align: center;
+        margin: auto;
+        
+    }
+    .single-car-performance{
+        margin-top: 40px;
+    }
+    .price-single-car{
+        padding-bottom: 40px;
+    }
+    .change-page{
+        background-color: rgb(57, 57, 254);
+        color: white;
+        border: 1px solid white;
+        
+        border-radius: 8px;
+        margin-left: 80px;
+        margin-bottom: 10px;
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+    .single-car{ 
+        width: 75%;
+        margin: 0 auto;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+
+   
+    .single-car-left{
+      
+        text-align: center;
+        margin: auto;
+
+    }
+    .icons-single-car{
+        display: flex;
+        margin-top: 20px;
+        justify-content: space-around;
+
+    }
+    .single-car-right{
+        width: 50%;
+        text-align: center;
+        margin: auto;
+        
+    }
+    .single-car-performance{
+        margin-top: 40px;
+    }
+    .price-single-car{
+        padding-bottom: 40px;
+    }
+    .change-page{
+        background-color: rgb(57, 57, 254);
+        color: white;
+        border: 1px solid white;
+        
+        border-radius: 8px;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+
+}
+@media screen and (max-width: 768px){
+    .single-car{ 
+       
+        margin: 0 auto;
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    .car-img{
+        width: 272px;
+    }
+  
+    
+
+   
+    .single-car-left{
+      
+        text-align: center;
+        margin: auto;
+
+    }
+    .icons-single-car{
+        display: flex;
+        margin-top: 20px;
+        justify-content: space-around;
+
+    }
+    .single-car-right{
+        width: 90%;
+  
+        text-align: center;
+        margin: auto;
+        
+    }
+    .single-car-performance{
+        margin-top: 40px;
+    }
+    .price-single-car{
+        padding-bottom: 40px;
+    }
+    .change-page{
+        background-color: rgb(57, 57, 254);
+        color: white;
+        border: 1px solid white;
+        
+        border-radius: 8px;
+        margin: auto;
+        margin-bottom: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+}
+

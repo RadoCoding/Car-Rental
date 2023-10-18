@@ -1,0 +1,262 @@
+
+@media screen and (min-width: 1200px){
+    h1.headerTitle {
+        padding-top: 40px;
+        text-align: center;
+        margin: 0;
+        color: white;
+    }
+    .container{
+        background-color: rgb(39,39,38);
+    }
+    .Contact{
+        width: 75%;
+        margin: 0 auto;
+    }
+    .contactWrapper{
+        display: flex;
+    }
+    .left-contact{
+        width: 50%;
+        margin-right: 40px;
+    }
+    .localization{
+        margin-top: 80px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        background-color: rgb(30,30,30);
+        color: white;
+        margin-bottom: 40px;
+        padding: 10px;
+    }
+    .email{
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        background-color: rgb(30,30,30);
+        color: white;
+        margin-bottom: 40px;
+        padding: 10px;
+    }
+    .phone{
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        background-color: rgb(30,30,30);
+        color: white;
+        margin-bottom: 40px;
+        padding: 10px;
+
+    }
+    .iconContact{
+        border-radius: 50%;
+        background-color: aqua;
+        background-color: rgb(39,39,38);
+        padding: 10px;
+        margin-right: 10px;
+    }
+    input,
+    textarea{
+        width: 100%;
+        padding: 1.2rem;
+        color: white;
+        background-color: rgb(30,30,30);
+        border: none;
+        border-radius: 8px;
+        margin-top: 20px;
+    }
+    label{
+        color: white;
+        
+     
+    }
+
+
+    .right-contact{
+        width: 50%;
+        margin-top: 40px;
+        margin-left: 40px;
+        justify-content: center;
+        
+        
+      
+    }
+    .btn-contact{
+        border-radius: 8px;
+        margin-top: 10px;
+        color: rgb(39,39,38);
+        background-color: white;
+        width: 100px;
+        height: 35px;
+    }
+    .container{
+        padding-bottom: 80px;
+    }
+    
+
+}
+@media screen and (min-width: 768px) and (max-width: 1200px){
+    h1.headerTitle {
+        padding-top: 40px;
+        text-align: center;
+        margin: 0;
+        color: white;
+    }
+    .container{
+        background-color: rgb(39,39,38);
+    }
+    .Contact{
+        width: 75%;
+        margin: 0 auto;
+    }
+    .contactWrapper{
+        display: flex;
+    }
+    .left-contact{
+        width: 50%;
+        margin-right: 40px;
+    }
+    .localization{
+        margin-top: 80px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        background-color: rgb(30,30,30);
+        color: white;
+        margin-bottom: 40px;
+        padding: 10px;
+    }
+    .email{
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        background-color: rgb(30,30,30);
+        color: white;
+        margin-bottom: 40px;
+        padding: 10px;
+    }
+    .phone{
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        background-color: rgb(30,30,30);
+        color: white;
+        margin-bottom: 40px;
+        padding: 10px;
+
+    }
+    .iconContact{
+        border-radius: 50%;
+        background-color: aqua;
+        background-color: rgb(39,39,38);
+        padding: 10px;
+        margin-right: 10px;
+    }
+    input,
+    textarea{
+        width: 100%;
+        padding: 1.2rem;
+        color: white;
+        background-color: rgb(30,30,30);
+        border: none;
+        border-radius: 8px;
+        margin-top: 20px;
+    }
+    label{
+        color: white;
+        
+     
+    }
+
+}
+    @media screen and (max-width: 768px){
+        h1.headerTitle {
+            padding-top: 40px;
+            text-align: center;
+            margin: 0;
+            color: white;
+        }
+        .container{
+            background-color: rgb(39,39,38);
+        }
+     
+        .contactWrapper{
+            display: flex;
+            display: block;
+        }
+      
+        .localization{
+            margin-top: 80px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            background-color: rgb(30,30,30);
+            color: white;
+            margin-bottom: 40px;
+            padding: 10px;
+        }
+        .email{
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            background-color: rgb(30,30,30);
+            color: white;
+            margin-bottom: 40px;
+            padding: 10px;
+        }
+        .phone{
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            background-color: rgb(30,30,30);
+            color: white;
+            margin-bottom: 40px;
+            padding: 10px;
+    
+        }
+        .iconContact{
+            border-radius: 50%;
+            background-color: aqua;
+            background-color: rgb(39,39,38);
+            padding: 10px;
+            margin-right: 10px;
+        }
+        .contact{
+            width: 100%;
+        }
+        input,
+        textarea{
+            
+            width: 90%;
+         
+            padding: 1.2rem;
+            color: white;
+            background-color: rgb(30,30,30);
+            border: none;
+            border-radius: 8px;
+            margin: 10px auto;
+        }
+        label{
+            color: white;
+            
+         
+        }
+    .btn-contact{
+        border-radius: 8px;
+        margin-top: 10px;
+        color: rgb(39,39,38);
+        background-color: white;
+        width: 100px;
+        height: 35px;
+    }
+    .container{
+        padding-bottom: 80px;
+    }
+    
+
+}
+.googleMaps{
+    z-index: 1;
+
+}

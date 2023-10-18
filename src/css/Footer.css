@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(185, 185, 185);
+    display: flex;
+    justify-content: space-around;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.social{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 30px;
+}
+.social-media{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
