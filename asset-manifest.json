@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Car-Rental/static/css/main.f0558c8a.css",
+    "main.js": "/Car-Rental/static/js/main.5d36b15c.js",
+    "static/media/audirs6.jpg": "/Car-Rental/static/media/audirs6.887af4e544fb03d2d9e7.jpg",
+    "static/media/teamwork.jpg": "/Car-Rental/static/media/teamwork.e1fd305e49d274be17f7.jpg",
+    "static/media/mustang-mobile.jpg": "/Car-Rental/static/media/mustang-mobile.7c9da001da752f22f06c.jpg",
+    "static/media/mercedes-benz-1470115_1280.jpg": "/Car-Rental/static/media/mercedes-benz-1470115_1280.6660e2a54c6605a6450f.jpg",
+    "static/media/mercedes_s_coupe.jpg": "/Car-Rental/static/media/mercedes_s_coupe.53dd870091426b54831e.jpg",
+    "static/media/bmwm4.jpg": "/Car-Rental/static/media/bmwm4.8287da380de7f907fb23.jpg",
+    "static/media/logo.png": "/Car-Rental/static/media/logo.ce3ffa704cd9df0950ca.png",
+    "static/media/bmw-m4-2968729_1280.jpg": "/Car-Rental/static/media/bmw-m4-2968729_1280.217fb23d48097d098329.jpg",
+    "static/media/bmw-2964072_1280.jpg": "/Car-Rental/static/media/bmw-2964072_1280.3b00770a3adda7ac240e.jpg",
+    "static/media/lamborgini-4565343_1280.jpg": "/Car-Rental/static/media/lamborgini-4565343_1280.3413bd6bdbf4c3d8b9c2.jpg",
+    "static/media/car.jpg": "/Car-Rental/static/media/car.5708c1d568c5dfa24b7b.jpg",
+    "index.html": "/Car-Rental/index.html",
+    "main.f0558c8a.css.map": "/Car-Rental/static/css/main.f0558c8a.css.map",
+    "main.5d36b15c.js.map": "/Car-Rental/static/js/main.5d36b15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0558c8a.css",
+    "static/js/main.5d36b15c.js"
+  ]
+}
