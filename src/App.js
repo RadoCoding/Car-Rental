@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from '../../car-rentals/src/components/Navbar'
+import Navbar from '../src/components/Navbar'
 import { BrowserRouter, Route ,Routes } from 'react-router-dom';
 import Contact from './components/Contact'
 import Aboutus from './components/Aboutus'
