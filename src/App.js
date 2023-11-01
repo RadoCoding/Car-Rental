@@ -12,16 +12,13 @@ function App() {
     <BrowserRouter>
     <div className="App">
       <Navbar/>
-
-      
-   
- 
+    
     <Routes>
         <Route path='/contact' element={<Contact/>}/>
         <Route path='/aboutus'  element={<Aboutus/>}/>
         <Route path='/cars'  element={<Cars/>}/>
         <Route path='/' element={<Home/>}/>
-        <Route path='*' element={<Error/>}/>
+        <Route path='/*' element={<Error/>}/>
         </Routes>
         <Footer/> 
       </div> 
