@@ -18,7 +18,7 @@ function App() {
         <Route path='/aboutus'  element={<Aboutus/>}/>
         <Route path='/cars'  element={<Cars/>}/>
         <Route path='/Car-Rental' element={<Home/>}/>
-        <Route path='/*' element={<Error/>}/>
+        <Route path='*' element={<Error/>}/>
         </Routes>
         <Footer/> 
       </div> 
